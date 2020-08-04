@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (5.2.2)
+  - AlamofireImage (4.1.0):
+    - Alamofire (~> 5.1)
+  - DynamicColor (5.0.1)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - IQKeyboardManagerSwift (6.5.5)
+  - XCDYouTubeKit (2.14.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - DynamicColor
+  - FMDB
+  - IQKeyboardManagerSwift
+  - XCDYouTubeKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - DynamicColor
+    - FMDB
+    - IQKeyboardManagerSwift
+    - XCDYouTubeKit
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  AlamofireImage: c4a2ba349885fb3064feb74d2e547bd42ce9be10
+  DynamicColor: d049834ef86d8ecf150b0ca1ebe54ee733a0ec22
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  XCDYouTubeKit: 5d50bbacdd9fedf26fb578bab901d946ff3d064c
+
+PODFILE CHECKSUM: 9c2d872cc6e973ee6c80202a0b29a099aacca22e
+
+COCOAPODS: 1.9.0.beta.2
